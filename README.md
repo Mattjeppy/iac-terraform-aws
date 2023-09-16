@@ -11,6 +11,13 @@ EC2 Instances with Nginx Servers
 Application Load Balancer (ALB)
 Auto Scaling Group (ASG)
 ```
+
+### Here's how the infrastructure will look like with default settings.
+<div style="text-align:center">
+  <img src="media/setup-tree.jpg" alt="Alt Text">
+</div>
+
+
 ## Getting Started
 Follow the steps below to deploy this infrastructure using Terraform.
 Prerequisites
